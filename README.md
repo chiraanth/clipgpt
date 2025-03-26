@@ -26,14 +26,17 @@ Set your topic to `cars`:
 TOPIC = "cars"
 ```
 
-What does ABS stand for in car safety systems?
+Then copy a multiple-choice question like:
 
-A) Automatic Brake Suspension
-B) Anti-lock Braking System
-C) Auto Balance Stabilizer
-D) Advanced Brake System
+> What does ABS stand for in car safety systems?
+>
+> A) Automatic Brake Suspension  
+> B) Anti-lock Braking System  
+> C) Auto Balance Stabilizer  
+> D) Advanced Brake System
 
 Press `Ctrl+Alt+D` ➜ Clipboard will be updated with the correct option: `B) Anti-lock Braking System`
+
 
 ---
 

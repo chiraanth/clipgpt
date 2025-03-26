@@ -20,22 +20,20 @@
 
 ## 💡 Example Use Case
 
-Set your topic to `cybersecurity`:
+Set your topic to `cars`:
 
 ```python
-TOPIC = "cybersecurity"
+TOPIC = "cars"
 ```
 
-Then copy a multiple-choice question like:
+What does ABS stand for in car safety systems?
 
-> Which of the following is a passive reconnaissance technique?
->
-> A) SQL Injection  
-> B) Dumpster Diving  
-> C) Banner Grabbing  
-> D) Social Engineering
+A) Automatic Brake Suspension
+B) Anti-lock Braking System
+C) Auto Balance Stabilizer
+D) Advanced Brake System
 
-Press `Ctrl+Alt+D` ➜ Clipboard will be updated with the correct option: `C) Banner Grabbing`
+Press `Ctrl+Alt+D` ➜ Clipboard will be updated with the correct option: `B) Anti-lock Braking System`
 
 ---
 
